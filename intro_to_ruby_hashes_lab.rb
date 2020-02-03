@@ -12,14 +12,9 @@ def monopoly_with_second_tier
   # they'll guide you in how to modify what you just did to have more
   # complexity.
   monopoly = {
-<<<<<<< HEAD
     railroads: {
      pieces: 4
    }
-=======
-    pieces: {"railroads"}
-    	  railroads: {pieces}
->>>>>>> ed543010174c64cc845d31944eb5cc9490329561
 	}
 end
 
